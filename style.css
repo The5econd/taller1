@@ -1,0 +1,12 @@
+.center {
+    margin: auto;
+    width: 35%;
+    height: 80%;
+    border: 10px solid black;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.788)
+}
+
+.big-text {
+    font-size: 2em;
+}
